@@ -14,7 +14,10 @@
     <cargoProject FILE="$PROJECT_DIR$/src/analyzer/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ef8649-30f3-4163-8b13-ea758c85d69d" name="Default Changelist" comment="" />
+    <list default="true" id="d0ef8649-30f3-4163-8b13-ea758c85d69d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crawler/core.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/crawler/core.rs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/crawler/core.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+            <state relative-caret-position="316">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -117,8 +120,8 @@
     <option name="directoryName" value="HvkopDFt" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="436" />
-    <option name="y" value="21" />
+    <option name="x" value="212" />
+    <option name="y" value="47" />
     <option name="width" value="1474" />
     <option name="height" value="920" />
   </component>
@@ -224,7 +227,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596183289584</updated>
       <workItem from="1596183292281" duration="3411000" />
-      <workItem from="1596202319546" duration="2565000" />
+      <workItem from="1596202319546" duration="2822000" />
     </task>
     <task id="LOCAL-00001" summary="backup">
       <created>1596204856571</created>
@@ -237,10 +240,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5976000" />
+    <option name="totallyTimeSpent" value="6233000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="349" y="17" width="1179" height="736" extended-state="0" />
+    <frame x="170" y="38" width="1179" height="736" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23715058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -254,7 +258,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49954915" weight="0.32928944" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32928944" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50045085" side_tool="true" weight="0.32928944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -321,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/crawler/core.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        <state relative-caret-position="316">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
         </state>
       </provider>
     </entry>
